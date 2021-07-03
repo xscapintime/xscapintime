@@ -1,4 +1,11 @@
-### Hi there 👋
+### 🖖
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xscapintime&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xscapintime&layout=compact)](https://github.com/xscapintime/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xscapintime&layout=compact)](https://github.com/xscapintime/github-readme-stats)
+
 
 <!--
 **xscapintime/xscapintime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
