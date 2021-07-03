@@ -1,10 +1,12 @@
 ### 🖖
 
-<![GitHub stats](https://github-readme-stats.vercel.app/api?username=xscapintime&show_icons=true&theme=radical)>
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xscapintime&show_icons=true&theme=radical)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xscapintime&layout=compact)](https://github.com/xscapintime/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xscapintime)](https://github.com/xscapintime/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xscapintime)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
