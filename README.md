@@ -8,7 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xscapintime&layout=compact)](https://github.com/xscapintime/github-readme-stats)
 
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=xscapintime)](https://github.com/xscapintime/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xscapintime)](https://github.com/xscapintime/github-readme-stats)
+
+
 
 
 
