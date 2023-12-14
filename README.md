@@ -1,5 +1,5 @@
-### 🖖
-~~knows nothing, pretends to learn everything~~
+### 
+~~The mind is not the carefree set~~
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xscapintime&show_icons=true&theme=radical)
