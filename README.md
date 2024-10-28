@@ -1,5 +1,4 @@
 ### 
-人往高处走
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xscapintime&show_icons=true&theme=radical)
