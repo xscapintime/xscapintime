@@ -3,6 +3,7 @@
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xscapintime&show_icons=true&theme=radical)
 -->
+~~sinceris fortuna iuvat?~~
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xscapintime&layout=compact&hide=jupyter%20notebook,CSS,HTML,JavaScript)](https://github.com/xscapintime/github-readme-stats)
 
