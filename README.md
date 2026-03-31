@@ -5,7 +5,7 @@
 -->
 ~~sinceris fortuna iuvat?~~ mind the gap
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xscapintime&layout=compact&hide=jupyter%20notebook,CSS,HTML,JavaScript)](https://github.com/xscapintime/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xscapintime&layout=compact&hide=jupyter%20notebook,CSS,HTML,JavaScript)](https://github.com/xscapintime/github-readme-stats)-->
 
 
 <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xscapintime&layout=compact)](https://github.com/xscapintime/github-readme-stats) -->
